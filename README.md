@@ -9,19 +9,19 @@ _«Традиционно чёрные и угловатые, ноутбуки линейки ThinkPad собраны на жёсткой р
 *** 
 
 ## Оглавление
-- [Основные вопросы](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Основные-вопросы)
-- [Серии ThinkPad'ов](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Серии-thinkpad)
-- [Какую модель мне лучше выбрать?](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#А-какую-модель-мне-лучше-выбрать)
-- [Как расшифровать номер модели?](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Как-расшифровать-номер-модели)
-- [Как проверить синкпад во время покупки?](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Как-проверить-синкпад-во-время-покупки)
-- [Чего прежде всего опасаться и чего избегать при покупке Синкпада?](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Чего-прежде-всего-опасаться-и-чего-избегать-при-покупке-Синкпада)
-- [Они действительно такие не убиваемые и защищены от воды как говорят?](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Они-действительно-такие-не-убиваемые-и-защищены-от-воды-как-говорят)
-- [Синкпады скатились или нет?](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Так-синкпады-скатились-или-нет?)
-- [Немного о железе](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Немного-о-железе)
-- [О кастомизации и прочие советы](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#О-кастомизации-и-прочие-советы)
-- [Про покупку ThinkPad с ebay](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Про-покупку-ThinkPad-с-ebay)
-- [Немного про ШИМ](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Немного-про-ШИМ)
-- [Полезные ссылки](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/README.md#Полезные-ссылки)
+- [Основные вопросы](https://github.com/pepe-i-shim/Thinkpadthinkpad#Основные-вопросы)
+- [Серии ThinkPad'ов](https://github.com/pepe-i-shim/Thinkpadthinkpad#Серии-thinkpad)
+- [Какую модель мне лучше выбрать?](https://github.com/pepe-i-shim/Thinkpadthinkpad#А-какую-модель-мне-лучше-выбрать)
+- [Как расшифровать номер модели?](https://github.com/pepe-i-shim/Thinkpadthinkpad#Как-расшифровать-номер-модели)
+- [Как проверить синкпад во время покупки?](https://github.com/pepe-i-shim/Thinkpadthinkpad#Как-проверить-синкпад-во-время-покупки)
+- [Чего прежде всего опасаться и чего избегать при покупке Синкпада?](https://github.com/pepe-i-shim/Thinkpadthinkpad#Чего-прежде-всего-опасаться-и-чего-избегать-при-покупке-Синкпада)
+- [Они действительно такие не убиваемые и защищены от воды как говорят?](https://github.com/pepe-i-shim/Thinkpadthinkpad#Они-действительно-такие-не-убиваемые-и-защищены-от-воды-как-говорят)
+- [Синкпады скатились или нет?](https://github.com/pepe-i-shim/Thinkpadthinkpad#Так-синкпады-скатились-или-нет?)
+- [Немного о железе](https://github.com/pepe-i-shim/Thinkpadthinkpad#Немного-о-железе)
+- [О кастомизации и прочие советы](https://github.com/pepe-i-shim/Thinkpadthinkpad#О-кастомизации-и-прочие-советы)
+- [Про покупку ThinkPad с ebay](https://github.com/pepe-i-shim/Thinkpadthinkpad#Про-покупку-ThinkPad-с-ebay)
+- [Немного про ШИМ](https://github.com/pepe-i-shim/Thinkpadthinkpad#Немного-про-ШИМ)
+- [Полезные ссылки](https://github.com/pepe-i-shim/Thinkpadthinkpad#Полезные-ссылки)
 
 
 *** 
@@ -464,7 +464,7 @@ X1 Carbon: Возможна замена ССД и Модулей Wifi и 3g.
 Где не обнаружен: 
 - X41t, T460, T440S
 
-### [ Подробный разбор наличия/отсутствия ШИМ на модельном ряде ThinkPad](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/PWM.md)
+### [ Подробный разбор наличия/отсутствия ШИМ на модельном ряде ThinkPad](https://github.com/pepe-i-shim/Thinkpadthinkpad/blob/master/PWM.md)
 
 ![](https://i.imgur.com/U9fUcGd.gif "Фак по ШИМу")
 
