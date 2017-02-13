@@ -318,6 +318,7 @@ Sort of…
 Если по короче на примере Т-серии:
 
 **ThinkPad T60** – тру, тот самый синкпад(тм), Последный IBM/Первый Lenovo;
+
 **ThinkPad T400** – мелкие изменения, но всё ещё тру;
 
 **ThinkPad T410** – то же самое;
@@ -332,7 +333,7 @@ Sort of…
 
 Особенный бугурт вызвала компоновка X1 Carbon Gen2:
 
-![Самый ужасный Синкпад](http://www.notebookcheck.net/uploads/tx_nbc2/lenoTHINKcarbon_2.jpg)
+![Самый ужасный Синкпад](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/files/thinkpad_t440_trackpoint.jpg)
 
 Уёбищная клавиватура, сенсорная панель и отсутсвие кнопок TrackPoint.
 
@@ -400,7 +401,9 @@ _Раздел в процессе доработки_
 ## О кастомизации и прочие советы
 
 ### Установка классической клавиатуры на X230/T430/T530
-В 30 серии с последним классическим Лейаутом можно установить клавиатуру с 20 серии. Нужно немного подпилить крепления клавиатуры и прошить контроллер и всё. **Внимание не работает диод Caps Lock**
+В 30 серии с последним классическим Лейаутом можно установить клавиатуру с 20 серии. Нужно немного подпилить крепления клавиатуры и прошить контроллер и всё. 
+
+**Внимание не работает диод Caps Lock**
 
 - [Про клавомод на 30 серии](http://www.thinkwiki.org/wiki/Install_Classic_Keyboard_on_xx30_Series_ThinkPads)
 - [Установка классической клавиатуры на X230](http://forum.thinkpads.com/viewtopic.php?f=69&t=120776)
@@ -417,9 +420,15 @@ _Раздел в процессе доработки_
 
 ### Кастомные BIOS
 
-На старых синкпадах (Core 2 Duo) можно прошить [LibreBoot](https://libreboot.org/docs/install/) выпилив аппаратные бекдоры интела(Intel Active Management Technology) и леновы. 
+На **X60/X60s/X60t, T60, X200, T400, T500** можно прошить [LibreBoot](https://libreboot.org/docs/install/) выпилив аппаратные бекдоры интела (Intel Active Management Technology) и леновы. 
 
-На X60/X60s/X201/X220 можно зашить [CoreBoot](https://www.coreboot.org/) и попытаться установить Ivy Bridge процессоры. [Обновляемая таблица поддерживаемых устройств](https://www.coreboot.org/Supported_Motherboards)
+На **X60/X60s, X201, X220** можно прошить [CoreBoot](https://www.coreboot.org/) и попытаться установить Ivy Bridge процессоры. [Обновляемая таблица поддерживаемых устройств](https://www.coreboot.org/Supported_Motherboards)
+
+На **T61, R61, X61/X61s/X61T, X300** можно прошить [Middleton's BIOS](http://www.thinkwiki.org/wiki/Middleton's_BIOS) который активирует SATAII, удалит белый список на железки и добавит возможность переключить Fn-Ctrl местами.
+
+На **T43/T43p, R52, X41/X41T** можно прошить [TTav134's BIOS](http://www.thinkwiki.org/wiki/Problem_with_non-ThinkPad_hard_disks#Use_unofficial_modified_BIOS) который _Removes Error 2010 for aftermarket hard drives_, и устраняет белый список на железки.
+
+- [Прошивки удаления whitelist в BIOS](http://www.thinkwiki.org/wiki/Custom_BIOS#Whitelist_Removed_BIOSes)
 
 ### Удаление Intel ME
 
@@ -430,11 +439,11 @@ _Раздел в процессе доработки_
 **О том, что такое Intel ME:**
 
 В кратце, это миникомпьютер вшитый в чипсеты Intel и распаяные на материнских платах. Имеет непосредственный доступ к сети, оперативной памяти, процессору, умеет удаленно обновлять себя и BIOS.
-- [О самом Intel ME #1 : recon.cx](https://recon.cx/2014/slides/Recon%202014%20Skochinsky.pdf)
+- [О самом Intel ME #1 : Доклад Igor Skochinsky на Recon 2014](https://recon.cx/2014/slides/Recon%202014%20Skochinsky.pdf)
 - [О самом Intel ME #2 : habhrahabr.ru](https://habrahabr.ru/company/dsec/blog/278549/)
 - [О самом Intel ME #3 : habhrahabr.ru](https://habrahabr.ru/company/dsec/blog/282546/)
 - [О самом Intel ME #4 : видеоконференция Рутковской](https://www.youtube.com/watch?v=rcwngbUrZNg)
-- [О самом Intel ME #5 : PDF доклад Рутковской об блобах в чипсетах Intel](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf)
+- [О самом Intel ME #5 : PDF доклад Рутковской об блобах в чипсетах Intel](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf) [[epub]](https://blog.invisiblethings.org/papers/2015/x86_harmful.epub)
 
 **Чем обернется отключение Intel ME?** [[источник]](https://habrahabr.ru/company/dsec/blog/282546/#comment_8872318)
 > Не будут функционировать некоторые ACPI функции (которые повесили на ME), управление кулерами, ICC (управление частостами и разгон), программный TPM 2.0 и некоторые прикладные технологии Intel (в духе IPT) работать не будут. Точнее можно сказать для конкретной модели ПК, изучив состав кодовых модулей в прошивке Intel ME.
@@ -451,9 +460,24 @@ _Раздел в процессе доработки_
 > Цель проекта LibreBoot — полностью свободная прошивка без сторонних бинарных компонентов, поэтому с чипсетами новее 5 серии он не совместмим. Проект CoreBoot использует сторонние компоненты вроде ME firmware или VBIOS, поэтому на работоспособность ME практически не влияет. Я пишу «практически» потому, что для инициализации интерфейса HECI используются UEFI DXE-драйверы, которые в CereBoot нужно еще портировать, чтобы с ME можно было общаться из ОС.
 
 **Инструменты для удаления:**
-- Утилита для удаления Intel ME - [ME Cleaner](https://github.com/corna/me_cleaner)
+- Утилита для удаления Intel ME - [ME Cleaner](https://github.com/corna/me_cleaner) | [На чем работает?](https://github.com/corna/me_cleaner/wiki/me_cleaner-status)
 - [pdf-ка](https://github.com/ptresearch/me-disablement) с различными способами отключения ME.
 - [Подробный мануал](http://hardenedlinux.org/firmware/2016/11/17/neutralize_ME_firmware_on_sandybridge_and_ivybridge.html) по подготовке и удалению Intel ME на  Sandy Brige и Ivy Brige
+
+**Легкий вариант "избавления" без перепрошивок**
+
+Достаточно не пользоваться ethernet-портом работая только через Wi-Fi. При этом Wi-Fi адаптер от Intel тоже надо заменить адаптер от другого вендора. Например, Broadcom. Тогда Intel ME не сможет связаться с внешним миром.
+
+**Как проверить статус Intel ME?**
+Можно воспользоваться `intelmetool` из репозитория coreboot: [[источник]](https://github.com/corna/me_cleaner/wiki/How-does-it-work)
+
+```
+$ git clone --depth=1 http://review.coreboot.org/p/coreboot
+$ cd coreboot/util/intelmetool
+$ make
+$ sudo ./intelmetool -s
+```
+Выхлоп утилиты будет [примерно таким](https://gist.github.com/corna/d637a7c3279f41e9be65b43b673d54d3#file-intelmetool-s).
 
 
 ### Про слоты расширения
@@ -527,11 +551,13 @@ _Раздел находится в процессе наполнения_
 
 | Модель | Количество SATA | Количество mSATA |
 |---|---|---|
-| t420 | 1 + 1* | 1 |
-| t520 | 1 + 1* | 1 |
+| t420 | 1 + 1[*] | 1 |
+| t520 | 1 + 1[*] | 1 |
 | x220 | 1 | 1 |
 | x230 | 1 | 1 |
-* - вторым SATA является DVD-привод вместо которого, с помощью переходника можно поставить еще один SSD/HDD. Переходник ищется по запросу `hdd caddy <модель ноутбука>`
+[*] - вторым SATA является DVD-привод вместо которого, с помощью переходника можно поставить еще один SSD/HDD. Переходник ищется по запросу `hdd caddy <модель ноутбука>`
+
+Так же смотри [#Про слоты расширения](https://github.com/ThinkPadThink/Thinkpadthinkpad#Про-слоты-расширения)
 
 ### Установка 9,5мм HDD в серию X
 В компактных X сериях используется 2,5" HDD не стандартной толщины 7 мм (стандарт 9,5мм). Многие думают, что из-за этого диск не получится заменить любым из магазина. Это не так. 
@@ -570,6 +596,18 @@ Lenovo на своих батареях использует циферно-си
 Подсчет параметров производится по следующей формуле: 
 
 ``65 Wh / 11.1 V = 65 (V * A) h / 11.1 V = 5.85 Ah = 5900 mAh``
+
+#### Как узнать состояние своей батареи?
+В Linux это делается командами:
+- `acpi -bi`
+- `upower -i /org/freedesktop/UPower/devices/battery_BAT0`
+- Емкость: `cat /sys/class/power_supply/BAT1/capacity`. Статус: `cat /sys/class/power_supply/BAT1/status`
+- `cat /proc/acpi/battery/BAT0/state` и `cat /proc/acpi/battery/BAT0/info`
+
+В Windows можно поспользоваться:
+- Портативная утилита [BatteryInfoView](http://www.nirsoft.net/utils/battery_information_view.html). 
+- AIDA64 : _Компьютер > Электропитание_
+- Выполнить в командной строке `powercfg energy` и [проанализировать](https://wd-x.ru/proverka-iznosa-akkumulyatornoj-batarei-noutbuka/) созданный отчет
 
 #### Если хочется разобраться как работают батареи
 
