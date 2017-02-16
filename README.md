@@ -635,6 +635,8 @@ Lenovo на своих батареях использует циферно-си
 - `cat /proc/acpi/battery/BAT0/state` и `cat /proc/acpi/battery/BAT0/info`
 
 В Windows можно поспользоваться:
+- Power Manager для Windows 7
+- Lenovo Settings для Windows 10
 - Портативная утилита [BatteryInfoView](http://www.nirsoft.net/utils/battery_information_view.html). 
 - AIDA64 : _Компьютер > Электропитание_
 - Выполнить в командной строке `powercfg energy` и [проанализировать](https://wd-x.ru/proverka-iznosa-akkumulyatornoj-batarei-noutbuka/) созданный отчет
@@ -685,12 +687,16 @@ _В процессе наполнения_
 - Кнопка питания
 - Блок питания / зарядное устройство
 
+Есть версия у которой 1 прот USB 2.0 заменяется на порт USB 3.0 (Thinkpad Mini Dock Series 3 With USB 3.0)
+
 Поддерживает следующие Thinkpad-ы:
 - L412, L420
 - L512, L520
 - T400s, T410, T410i, T410s, T410si, T420, T420s, T430
 - T510, T510i, T520 (Dual Core models)
 - X220
+
+
 
 ***
 
