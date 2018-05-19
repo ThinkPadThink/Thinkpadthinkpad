@@ -1,6 +1,12 @@
 # ThinkPad FAQ 
-_специально для ThinkPad треда на борде 2ch.hk/hw_ и чатов в Telegram https://t.me/Thinkpad_thread https://t.me/thinkthread 
-_By t520 kun. Доработан t430 kun и pepe-i-shim (aka x220 kun)_
+_специально для ThinkPad треда на борде 2ch.hk/hw_
+
+
+И чатов в Telegram:
+https://t.me/Thinkpad_thread 
+https://t.me/thinkthread 
+
+_By t520 kun. Доработан t430 kun(X230 Tablet kun) и pepe-i-shim (aka x220 kun)_
 ## Описание
 ![](https://s-media-cache-ak0.pinimg.com/originals/b7/6c/aa/b76caa2f4e577e49660cb9ae80d01871.jpg)
 
