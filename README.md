@@ -5,7 +5,7 @@ _Специально для ThinkPad треда на борде 2ch.hk/hw_
 И чата в Telegram:
 https://t.me/Thinkpad_thread 
 
-_By t520 kun. Доработан t430 kun(X230 Tablet kun AKA Tabletoeb) и pepe-i-shim (aka x220 kun)_
+_By t520 kun. Доработан t430 kun(X230 Tablet kun AKA Tabletoeb AKA ОПХУЙ) и pepe-i-shim (aka x220 kun)_
 
 
 ## Описание
