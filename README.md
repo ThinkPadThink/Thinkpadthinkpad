@@ -785,7 +785,7 @@ T Серия:
 ***
 
 ## Полезные ссылки:
-- Telegram чаты: https://t.me/Thinkpad_thread https://t.me/thinkthread;
+- Telegram чаты: https://t.me/Thinkpad_thread ;
 
 - Гайд с 4chan который мне лень добавлять: https://sites.google.com/view/trueflametech/free-stuff/used-thinkpad-buyers-guide
 
