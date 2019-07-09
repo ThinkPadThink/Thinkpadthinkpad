@@ -807,3 +807,5 @@ T Серия:
 - [Гайды по разборке и обслуживанию](https://www.lenovoservicetraining.com/index.php?option=com_hwdmediashare&view=category&id=152&param=TGVuZyw1);
 
 - [Подробные обзоры на технику](http://www.notebookcheck.net/);
+
+- [Гайд по адервольтингу CPU Intel, актуально начиная с Haswell](https://github.com/mihic/linux-intel-undervolt);
