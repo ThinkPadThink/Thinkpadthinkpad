@@ -438,6 +438,10 @@ _Таблица находится в процессе наполнения_
 | [NVIDIA Quadro M3000M](http://www.notebookcheck.net/NVIDIA-Quadro-M3000M.151580.0.html) | Skylake |  | P70 |
 | [NVIDIA Quadro M4000M](http://www.notebookcheck.net/NVIDIA-Quadro-M4000M.151579.0.html) | |  | P70 |
 
+Таблица производительности CPU
+![](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/thinkpad_pr.png?raw=true)
+
+
 ***
 
 ## О кастомизации и прочие советы
