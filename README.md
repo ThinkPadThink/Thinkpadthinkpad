@@ -566,6 +566,19 @@ ThinkPad X280
 
 На **T43/T43p, R52, X41/X41T** можно прошить [TTav134's BIOS](http://www.thinkwiki.org/wiki/Problem_with_non-ThinkPad_hard_disks#Use_unofficial_modified_BIOS) который _Removes Error 2010 for aftermarket hard drives_, и устраняет белый список на железки.
 
+На некоторых **Thinkpad 30 серий X230, X230T, X330, T430, T530, W530, T430s** можно прошить JailBreak BIOS от n4ru. [ссылка](https://github.com/n4ru/1vyrain) об этом ниже.
+
+Какие плюсы от прошивки JailBreak BIOS: 
+
+- Возможность собирать RAID массивы на чипсете;
+- Возможность вручную настроить лимиты выделенной памяти на встройку;
+- Удаление Whitelist, можно установить быстрый Wifi модуль, например Intel AX200;
+- Вручную настраивать температурные пороги для вентиляторов;
+- Возможность вручную выставить частоту для памяти. 
+- Настройки турбобуста.
+
+Как прошить Jailbreak BIOS: Для прошивки JailBreak необходимо прошить определённую версию BIOS в которой существует уязвимость. [Более подробно описано тут](https://github.com/gch1p/thinkpad-bios-software-flashing-guide#bios-versions) Далее скачиваем с [сайта разраобтчика](https://1vyra.in) модифицированный образ Debian и в записываем на флешку через rufus. В BIOS в разделе StartUP выставляем режим загрузки **UEFI only** и CSM-support **YES** сохраняем и загружаемся с флешки. ДАлее просто следуем текстовым сообщениям. 
+
 - [Прошивки удаления whitelist в BIOS](http://www.thinkwiki.org/wiki/Custom_BIOS#Whitelist_Removed_BIOSes)
 
 ### Удаление Intel ME
