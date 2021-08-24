@@ -16,15 +16,6 @@ _By t520 kun. Доработан Мной (ThinkpadThink/2696v3 kun) и pepe-i-s
 
 *Если у вас есть что добавить можете воспользоваться __Pull Request__  и я это тогда добавлю в гайд. Хуйцы и прочее я конечно же добавлять не буду.*
 
-## Небольшой оффтоп 
-
-**Анон и не анон, подпиши письмо в поддержку [Открытое письмо в поддержку Ричарда Столлмана](https://rms-support-letter.github.io/index-ru.html)**
-
-Защитим Столлмана от несправедливых нападок SJW!
-
-![](https://github.com/rms-support-letter/rms-support-letter.github.io/blob/master/assets/social-media-preview_ru_RU.png?raw=true)
-
-
 ## Описание
 ![](https://s-media-cache-ak0.pinimg.com/originals/b7/6c/aa/b76caa2f4e577e49660cb9ae80d01871.jpg)
 
