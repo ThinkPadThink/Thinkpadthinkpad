@@ -560,7 +560,7 @@ ThinkPad X280
 
 На **X60/X60s/X60t, T60, X200, T400, T500** можно прошить [LibreBoot](https://libreboot.org/docs/install/) выпилив аппаратные бекдоры интела (Intel Active Management Technology) и леновы. 
 
-На **X60/X60s, X201, T420/X220** можно прошить [CoreBoot](https://www.coreboot.org/) и попытаться установить Ivy Bridge процессоры( только для T420). [Обновляемая таблица поддерживаемых устройств](https://www.coreboot.org/Supported_Motherboards)
+На **X60/X60s, X201, 20 и 30 сериях, а так же на 3 моделях 40 серии T440p, W540 и W541** можно прошить [CoreBoot](https://www.coreboot.org/) и попытаться установить Ivy Bridge процессоры( только для T420). [Обновляемая таблица поддерживаемых устройств](https://coreboot.org/status/board-status.html) Отдельно небольшая заметка [по T440p тут](ссылка)
 
 На **T61, R61, X61/X61s/X61T, X300** можно прошить [Middleton's BIOS](http://www.thinkwiki.org/wiki/Middleton's_BIOS) который активирует SATAII, удалит белый список на железки и добавит возможность переключить Fn-Ctrl местами.
 
