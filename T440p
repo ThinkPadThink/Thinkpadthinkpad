@@ -1,7 +1,5 @@
 Небольшая заметка по апгрейду и прошивке Coreboot на T440p.
 
-https://seiba.gitlab.io/thinkpad-t440p-upgrade-guide/
-https://blog.0xcb.dev/lenovo-t440p-coreboot/
 
 Почему именно T440p?
 
@@ -65,4 +63,15 @@ https://www.reddit.com/r/thinkpad/comments/86pw7g/best_t440p_ips_fhd_panel_march
 Есть возможность выпилить вайтлист либо же разблокировать расширенное меню, такое же как в 30 серии.
 Как вариант можно прошить Coreboot.
 Инструкция:
+Для сборки и прошивки вам понадобятся программатор Ch341a с прищепкой и другой ПК с Linux.
+Важно, необходимо млдифицировать Ch341a чтоб он подавал 3.3v как это сделать смотрите тут: https://www.chucknemeth.com/usb-devices/ch341a/3v-ch341a-mod
+Альтернативный вариант использовать Raspberry Pi, на ней нужно в конфигурации включить SPI. Как подключать прищепку к Малине смотрите тут: 
 
+
+
+Ссылки на все источники:
+
+https://seiba.gitlab.io/thinkpad-t440p-upgrade-guide/
+https://blog.0xcb.dev/lenovo-t440p-coreboot/
+https://octoperf.com/blog/2018/11/07/thinkpad-t440p-buyers-guide
+https://www.chucknemeth.com/usb-devices/ch341a/3v-ch341a-mod
