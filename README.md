@@ -661,7 +661,8 @@ X1 Carbon: Возможна замена SSD, модулей Wi-Fi и 3g.
 - В T430 есть возможность установить 35-ваттный 4-ядерный i7. Но там могут быть проблемы с зарядкой если блок питания слабый. В T420 и T430 опять же, можно поставит 45-ваттный i7. 
 - Можно заменить палмрест в T430 на T420, особенно если производите клавомод.
 - [Решение проблемы сброса частоты в 50Гц при работе от батареи](http://forum.ixbt.com/topic.cgi?id=17:42226:4233#4233)
-- [Управление шумом от кулеров](http://www.thinkwiki.org/wiki/How_to_control_fan_speed) (linux-only)
+- [Управление кулерами](http://www.thinkwiki.org/wiki/How_to_control_fan_speed) (linux-only)
+- [Управление кулерами](https://www.reddit.com/r/thinkpad/comments/qjlal2/tpfan_control_on_newer_thinkpads_share_your/) (windows-only)
 
 ## Про покупку ThinkPad с ebay:
 
