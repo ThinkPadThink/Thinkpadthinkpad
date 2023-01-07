@@ -915,7 +915,7 @@ P серия:
 ## Полезные ссылки:
 - Telegram чаты: https://t.me/Thinkpad_thread ;
 
-- Гайд с 4chan который мне лень добавлять: https://sites.google.com/view/trueflametech/free-stuff/used-thinkpad-buyers-guide
+- [Thinkpad buyers guide](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
 
 - [ThinkPad Wiki](http://www.thinkwiki.org/wiki/ThinkWiki);
 
