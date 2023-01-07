@@ -349,29 +349,28 @@ Sort of…
 
 Если по короче на примере Т-серии:
 
-**ThinkPad T60** – тру, тот самый синкпад(тм). Последний IBM/Первый Lenovo;
+**[ThinkPad T60](https://www.ferra.ru/review/notebooks/s26668.htm)** – тру, тот самый синкпад(тм). Последний IBM/Первый Lenovo;
 
-**ThinkPad T400** – мелкие изменения, но всё ещё тру;
+**[ThinkPad T400](https://niccompany.ru/ibmlenovot400)** – мелкие изменения, но всё ещё тру;
 
-**ThinkPad T410** – то же самое;
+**[ThinkPad T410](https://habr.com/ru/company/lenovo/blog/94445/)** – то же самое;
 
-**ThinkPad T420** – не большие потери в надёжности, но последний из синкпадов классической компоновки;
+**[ThinkPad T420](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Thinkpad-T420.52170.0.html)** – не большие потери в надёжности, но последний из синкпадов классической компоновки;
 
-**ThinkPad T430** – Не плохая модель но 7-рядная клавиатура уже убрана, начало скатывания;
+**ThinkPad T430** – Не плохая модель но 7-рядная клавиатура уже убрана, начало скатывания; [(обзор на X230)](https://www.ferra.ru/review/notebooks/Lenovo-ThinkPad-X230-notebook.htm)
 
-**ThinkPad T440** – серьёзные изменения: Изменён классический корпус, убраны защёлки, ThinkLight - вместо него подсветка клавиш. И, самое, ужасное убраны кнопки под TrackPoint. Тру процы сместились в T440p. В обычные пихают ULV камни.
-
+**[ThinkPad T440](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-T440.115092.0.html)** – серьёзные изменения: Изменён классический корпус, убраны защёлки и ThinkLight (лампа подсветки клавиатуры) - вместо него подсветка клавиш. И, самое, ужасное убраны кнопки под TrackPoint. Тру процы сместились в T440p. В обычные пихают ULV камни. Три слота M.2. Два отсека для 2.5-дюймовых устройств хранения (жестких дисков или SSD) на шине SATA
 ![](http://www.lenovo.com/images/gallery/560x345/lenovo-laptop-thinkpad-t440-main.png)
 
 Особенный бугурт вызвала компоновка X1 Carbon Gen2:
 
 ![Самый ужасный Синкпад](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/files/thinkpad_t440_trackpoint.jpg)
 
-Уёбищная клавиватура, сенсорная панель и отсутсвие кнопок TrackPoint. Не понимате что в них ущербного? [Просто посмотрите данное видео](https://www.youtube.com/watch?v=doEZMNXz1JY).
+Уёбищная клавиватура, сенсорная панель и отсутсвие кнопок TrackPoint. Не понимаете что в них ущербного? [Просто посмотрите данное видео](https://www.youtube.com/watch?v=doEZMNXz1JY).
 
 **Lenovo ThinkPad T450** - То же самое что и T440 но из-за бугурта по поводу TrackPoint, механические кнопки вернулись на Тачпад. 
 
-![](http://mdata.yandex.net/i?path=b0407010410_img_id4125149332085674389.jpeg)
+![](https://github.com/pepe-i-shim/Thinkpadthinkpad/blob/master/files/t450keyboard.jpg)
 
 **ThinkPad T460** - То же самое что и с T450 только смена платформы.
 
