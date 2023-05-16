@@ -445,6 +445,7 @@ _Таблица находится в процессе наполнения_
 | [Intel HD 3000](http://www.notebookcheck.net/Intel-HD-Graphics-3000.37948.0.html) | Sandy Bridge | Январь 2011 | X220/X220t, X1, T420, T520 |
 | [Intel HD 4000](http://www.notebookcheck.net/Intel-HD-Graphics-4000.69168.0.html) | Ivy Bridge | Апрель 2012 | X230/X230i/X230t, X1, T430/T430s, T530 |
 | [Intel HD 4400](http://www.notebookcheck.net/Intel-HD-Graphics-4400.91979.0.html) | Haswell | 2013 | X240/X240s, X1, T440/T440s, T540 |
+| [Intel HD 4600](http://www.notebookcheck.net/Intel-HD-Graphics-4600.86106.0.html) | Haswell | 2013 | T440p |
 | [NVIDIA GeForce GT 730M](http://www.notebookcheck-ru.com/NVIDIA-GeForce-GT-730M.102739.0.html) | Haswell | 2013 | T440p, T540p |
 | [Intel HD 5500](http://www.notebookcheck.net/Intel-HD-Graphics-5500.125586.0.html) | Broadwell | 2014 | X250, X1, T450/T450s, T550 |
 | [NVIDIA Quadro M600M](https://www.notebookcheck.net/NVIDIA-Quadro-M600M.151583.0.html) | Skylake |  | P70 |
@@ -762,7 +763,7 @@ Lenovo на своих батареях использует циферно-си
 
 ![](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/files/battery_9cell.png)
 
-Цифры, стоящие перед знаками `+` означают поколение батареи от пладшей к старшей. Дело в том, что батареи Lenovo универсальны и одна и та же батарея может подходить к определенному набору ноутбуков. К старым ноутбукам подходят младшие поколения. Например на X200/X201 использовалась 12-ая серия батарей. На X220/X240 подходят 19, 44 и 67 серия батарей. 
+Цифры, стоящие перед знаками `+` означают поколение батареи от младшей к старшей. Дело в том, что батареи Lenovo универсальны и одна и та же батарея может подходить к определенному набору ноутбуков. К старым ноутбукам подходят младшие поколения. Например на X200/X201 использовалась 12-ая серия батарей. На X220/X240 подходят 19, 44 и 67 серия батарей. 
 
 Для того чтобы определить к какому Thinkpad-у какая батарея подойдет, можно ознакомиться с **перечнем всех батарей Thinkpad на [support.lenovo.com](https://support.lenovo.com/ru/ru/documents/pd012165).**
 
