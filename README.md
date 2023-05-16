@@ -678,7 +678,7 @@ X1 Carbon: Возможна замена SSD, модулей Wi-Fi и 3g.
 - X-Series: X60/X60t, X201, X220, X230, X1 Carbon GEN3
 
 Где не обнаружен: 
-- X41t, T460, T440s, T460, X1 Carbon GEN4
+- X41t, T440s, T460, X1 Carbon GEN4
 
 ### [ Подробный разбор наличия/отсутствия ШИМ на модельном ряде ThinkPad](https://github.com/ThinkPadThink/Thinkpadthinkpad/blob/master/PWM.md)
 
