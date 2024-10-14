@@ -3,7 +3,7 @@ _Специально для ThinkPad треда на борде 2ch.hk/hw_
 
 
 И чата в Telegram:
-https://t.me/Thinkpad_thread 
+https://t.me/thinkpad_thread_ru
 
 _By t520 kun. Доработан Мной (ThinkpadThink/2696v3 kun) и pepe-i-shim (aka x220 kun)_
 
@@ -914,7 +914,7 @@ P серия:
 ***
 
 ## Полезные ссылки:
-- Telegram чаты: https://t.me/Thinkpad_thread ;
+- Telegram чаты: https://t.me/thinkpad_thread_ru;
 
 - [Thinkpad buyers guide](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
 
