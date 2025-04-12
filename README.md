@@ -930,7 +930,7 @@ P серия:
 
 [https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 
-[Гигантский производитель лишил свои ноутбуки «фишки», которая 30 лет отличала их от конкурентов. Аналогов у нее нет. ]([https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide](https://www.cnews.ru/news/top/2025-01-20_gigantskij_proizvoditel))
+[Гигантский производитель лишил свои ноутбуки «фишки», которая 30 лет отличала их от конкурентов. Аналогов у нее нет. ](https://www.cnews.ru/news/top/2025-01-20_gigantskij_proizvoditel)
 
 А старые модели просто устаревают уже, всё что ниже кеби лейка уже не очень актуальное
 
